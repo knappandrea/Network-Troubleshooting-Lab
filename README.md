@@ -1,6 +1,7 @@
 
 Network Troubleshooting Lab
 Network Troubleshooting & TCP/IP Fundamentals Lab
+
 📌 Project Overview
 
 This lab was designed to simulate common help desk and IT support networking issues within a virtualized environment. The goal was to practice diagnosing and resolving connectivity problems using core TCP/IP concepts and command-line troubleshooting tools.
