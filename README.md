@@ -96,11 +96,13 @@ Used ping to isolate break point
 Resolution: Corrected DNS server IP address
 
 🧪 Troubleshooting Scenarios
+
 ❗ Issue: Cannot Join Domain
 
 Cause: Incorrect DNS configuration
 Tool Used: ipconfig, nslookup
 Fix: Updated DNS server address
+
 ❗ Issue: Intermittent Connectivity
 
 Cause: Incorrect subnet configuration
@@ -110,6 +112,7 @@ Fix: Adjusted subnet mask to match network range
 
 Cause: DNS service misconfiguration
 Fix: Restarted DNS service on Domain Controller
+
 📊 Tools Practiced
 
 ipconfig
@@ -135,6 +138,7 @@ Network segmentation basics
 Identifying potential misconfigurations
 
 Logging and documenting troubleshooting steps
+
 📚 Key Takeaways
 
 DNS is foundational in domain environments
