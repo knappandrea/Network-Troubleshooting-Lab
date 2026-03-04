@@ -47,6 +47,7 @@ Use command-line tools to identify issues
 Document structured troubleshooting steps
 
 🔧 Key Tasks Performed
+
 1️⃣ IP Address Configuration
 
 Assigned static IP to server
